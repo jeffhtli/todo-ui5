@@ -1,1 +1,1 @@
-Decrator [Todo App with Redux](https://codesandbox.io/s/9on71rvnyo) with [UI5 Web Components](https://github.com/SAP/ui5-webcomponents-react)
+Decorate [Todo App with Redux](https://codesandbox.io/s/9on71rvnyo) with [UI5 Web Components](https://github.com/SAP/ui5-webcomponents-react)
