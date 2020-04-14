@@ -1,0 +1,27 @@
+.mainFlex {
+    width: 100%;
+}
+
+.appContainer {
+    width: 500px;
+}
+
+.addTodoFlexBox {
+    margin: 10px 0;
+}
+
+.addTodoButton {
+    margin-left: 20px;
+    width: 150px;
+}
+
+.todo{
+    padding: 0 20px;
+}
+
+.todoCompleted {
+    padding: 0 20px;
+    text-decoration: line-through;
+    color: lightgray;
+    font-style: italic;
+}
